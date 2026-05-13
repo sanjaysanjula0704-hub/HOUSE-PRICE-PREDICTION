@@ -1,6 +1,7 @@
 # House Price Prediction
 
-This project predicts house prices using Machine Learning.
+## Overview
+This project predicts house prices using Machine Learning models.
 
 ## Technologies Used
 - Python
@@ -8,19 +9,24 @@ This project predicts house prices using Machine Learning.
 - scikit-learn
 - matplotlib
 
-## Models Used
+## ML Models
 - Linear Regression
 - Decision Tree
 - Random Forest
 
-## Features
+## Workflow
 - Data Cleaning
 - Feature Engineering
-- Model Comparison
+- Model Training
+- Evaluation
 - Visualization
 
-## Dataset
-Kaggle House Price Dataset
+## Results
+Random Forest performed better with lower Mean Squared Error.
+
+## Future Improvements
+- Hyperparameter tuning
+- Deployment using Streamlit
 
 ## Author
 Sanjay V
